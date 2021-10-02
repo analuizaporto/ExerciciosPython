@@ -1,4 +1,4 @@
-# ExerciciosPython
+# Exercicios Python Mundo 1
 Exercícios do curso de Python 3 -  Mundo 1 (40 horas) do [site](https://www.cursoemvideo.com/course/python-3-mundo-1/) e canal no [Youtube](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6): Curso em Vídeo - Professor Gustavo Guanabara.
 
 ### Assuntos estudados:<h3>
